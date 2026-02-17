@@ -12,9 +12,7 @@
 
 ## What This Project Is
 <img width="1582" height="730" alt="image" src="https://github.com/user-attachments/assets/a8f58cc3-0d05-4e2f-8961-2df5da0e36ed" />
-
-
-<img width="1582" height="730" alt="LogicBot v2 running in terminal" src="https://github.com/user-attachments/assets/baf3695f-202d-4936-8da5-9c61423d7df6" />
+s
 
 LogicBot is a learning prototype. It fine-tunes **DialoGPT-small** on a custom dataset of logical and philosophical question-answer pairs to explore the mechanics and limits of instruction tuning in low-resource settings.
 
