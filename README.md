@@ -12,9 +12,6 @@
 
 ## What This Project Is
 
-<img width="1582" height="730" alt="image" src="https://github.com/user-attachments/assets/034595de-5e62-4009-8e49-bfbde16955c1" />
-
-
 LogicBot is a learning prototype. It fine-tunes **DialoGPT-small** on a custom dataset of logical and philosophical question-answer pairs to explore the mechanics and limits of instruction tuning in low-resource settings.
 
 The project is **not** a production chatbot. It is an honest investigation into what language models can and cannot learn from limited data, and why.
