@@ -1,0 +1,17 @@
+# Virtual env
+.venv/
+
+# Model checkpoints
+model/
+saved_model/
+*.safetensors
+*.bin
+
+# Cache
+__pycache__/
+.cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
